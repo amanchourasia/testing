@@ -2,7 +2,7 @@
 const Code  = require('code');
 const Lab   = require('lab');
 const lab   = exports.lab = Lab.script();
-const Hello = require('../../lib/hello.js');
+const Helloo = require('../../lib/hello.js');
 
 lab.experiment('test greetings', () => {
 
